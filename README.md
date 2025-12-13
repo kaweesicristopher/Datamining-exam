@@ -1,0 +1,2 @@
+# Datamining-exam
+practical exam
